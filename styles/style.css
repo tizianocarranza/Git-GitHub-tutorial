@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    color: skyblue;
+    text-shadow: 3px 3px 25px aquamarine;
+    font-variant: small-caps;
+}
+p{
+    font-style: oblique;
+}
