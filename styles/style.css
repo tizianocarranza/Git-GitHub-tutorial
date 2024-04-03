@@ -4,10 +4,11 @@ body{
 }
 
 h1{
-    color: skyblue;
+    color: #fdc;
     text-shadow: 3px 3px 25px aquamarine;
-    font-variant: small-caps;
+    font-variant: normal;
 }
 p{
     font-style: oblique;
+    text-indent: 10px;
 }
