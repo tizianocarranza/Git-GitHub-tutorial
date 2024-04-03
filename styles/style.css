@@ -8,11 +8,18 @@ h1{
     text-shadow: 3px 3px 25px aquamarine;
     font-variant: normal;
 }
+
 p{
     font-style: oblique;
     text-indent: 10px;
 }
 
-img{
-    width: 100px;
+.img-container{
+    display: flex;
+}
+
+.img-container img{
+    width: 120px;
+    height: 200px;
+    margin: 10px;
 }
